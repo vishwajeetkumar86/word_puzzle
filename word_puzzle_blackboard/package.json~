@@ -1,0 +1,19 @@
+{
+	  "name": "nodejs-blackboard"
+	, "description": "Test nodejs app"
+	, "version": "0.0.4"
+	, "private": true
+	, "dependencies": {
+		  "express": "latest"
+		, "jade": "latest"
+		, "stylus": "latest"
+		, "nib": "latest"
+		, "body-parser": "latest"
+		, "method-override": "latest"
+		, "cookie-parser": "latest"
+		, "errorhandler": "latest"
+		, "socket.io": "latest"
+		, "mongoose": "*"
+	}
+	, "author": "Juan Pinilla" 
+}
